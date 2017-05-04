@@ -1,0 +1,1100 @@
+1000      
+1    "Time taken nanoseconds (n^2)" "Array Length" !!!
+Average_Insertion_Run-time 2170452  1000 1000000 1328957 
+2      
+Average_Insertion_Run-time 662585     
+3      
+Average_Insertion_Run-time 732721     
+4      
+Average_Insertion_Run-time 655522     
+5      
+Average_Insertion_Run-time 2423505     
+2000      
+1      
+Average_Insertion_Run-time 390061  2000 4000000 393431.8 
+2      
+Average_Insertion_Run-time 396841     
+3      
+Average_Insertion_Run-time 386786     
+4      
+Average_Insertion_Run-time 396478     
+5      
+Average_Insertion_Run-time 396993     
+3000      
+1      
+Average_Insertion_Run-time 872222  3000 9000000 863727.6 
+2      
+Average_Insertion_Run-time 850104     
+3      
+Average_Insertion_Run-time 866488     
+4      
+Average_Insertion_Run-time 862650     
+5      
+Average_Insertion_Run-time 867174     
+4000      
+1      
+Average_Insertion_Run-time 1549978  4000 16000000 1538760.4 
+2      
+Average_Insertion_Run-time 1541562     
+3      
+Average_Insertion_Run-time 1525472     
+4      
+Average_Insertion_Run-time 1522555     
+5      
+Average_Insertion_Run-time 1554235     
+5000      
+1      
+Average_Insertion_Run-time 2393083  5000 25000000 2696748 
+2      
+Average_Insertion_Run-time 2381080     
+3      
+Average_Insertion_Run-time 2915883     
+4      
+Average_Insertion_Run-time 2913193     
+5      
+Average_Insertion_Run-time 2880501     
+6000      
+1      
+Average_Insertion_Run-time 3528593  6000 36000000 3436271.6 
+2      
+Average_Insertion_Run-time 3399449     
+3      
+Average_Insertion_Run-time 3450134     
+4      
+Average_Insertion_Run-time 3378017     
+5      
+Average_Insertion_Run-time 3425165     
+7000      
+1      
+Average_Insertion_Run-time 4755479  7000 49000000 4667028.8 
+2      
+Average_Insertion_Run-time 4665585     
+3      
+Average_Insertion_Run-time 4594047     
+4      
+Average_Insertion_Run-time 4731031     
+5      
+Average_Insertion_Run-time 4589002     
+8000      
+1      
+Average_Insertion_Run-time 6245322  8000 64000000 6153221.6 
+2      
+Average_Insertion_Run-time 6181503     
+3      
+Average_Insertion_Run-time 6124583     
+4      
+Average_Insertion_Run-time 6115536     
+5      
+Average_Insertion_Run-time 6099164     
+9000      
+1      
+Average_Insertion_Run-time 7751664  9000 81000000 7674851 
+2      
+Average_Insertion_Run-time 7662837     
+3      
+Average_Insertion_Run-time 7683907     
+4      
+Average_Insertion_Run-time 7642542     
+5      
+Average_Insertion_Run-time 7633305     
+10000      
+1      
+Average_Insertion_Run-time 9575966  10000 100000000 9467518.2 
+2      
+Average_Insertion_Run-time 9415590     
+3      
+Average_Insertion_Run-time 9428357     
+4      
+Average_Insertion_Run-time 9474617     
+5      
+Average_Insertion_Run-time 9443061     
+11000      
+1      
+Average_Insertion_Run-time 11503919  11000 121000000 11486791.4 
+2      
+Average_Insertion_Run-time 11409829     
+3      
+Average_Insertion_Run-time 11427196     
+4      
+Average_Insertion_Run-time 11577672     
+5      
+Average_Insertion_Run-time 11515341     
+12000      
+1      
+Average_Insertion_Run-time 13759729  12000 144000000 13664290.4 
+2      
+Average_Insertion_Run-time 13808753     
+3      
+Average_Insertion_Run-time 13577091     
+4      
+Average_Insertion_Run-time 13656810     
+5      
+Average_Insertion_Run-time 13519069     
+13000      
+1      
+Average_Insertion_Run-time 15883986  13000 169000000 15981338.4 
+2      
+Average_Insertion_Run-time 15974555     
+3      
+Average_Insertion_Run-time 16095562     
+4      
+Average_Insertion_Run-time 15885466     
+5      
+Average_Insertion_Run-time 16067123     
+14000      
+1      
+Average_Insertion_Run-time 18574626  14000 196000000 18631181.6 
+2      
+Average_Insertion_Run-time 18559142     
+3      
+Average_Insertion_Run-time 18857633     
+4      
+Average_Insertion_Run-time 18741408     
+5      
+Average_Insertion_Run-time 18423099     
+15000      
+1      
+Average_Insertion_Run-time 21470529  15000 225000000 21425342.4 
+2      
+Average_Insertion_Run-time 21419775     
+3      
+Average_Insertion_Run-time 21277723     
+4      
+Average_Insertion_Run-time 21323638     
+5      
+Average_Insertion_Run-time 21635047     
+16000      
+1      
+Average_Insertion_Run-time 24400548  16000 256000000 24297948.2 
+2      
+Average_Insertion_Run-time 24217225     
+3      
+Average_Insertion_Run-time 24227696     
+4      
+Average_Insertion_Run-time 24219190     
+5      
+Average_Insertion_Run-time 24425082     
+17000      
+1      
+Average_Insertion_Run-time 27218171  17000 289000000 27348503.6 
+2      
+Average_Insertion_Run-time 27616497     
+3      
+Average_Insertion_Run-time 27317100     
+4      
+Average_Insertion_Run-time 27336305     
+5      
+Average_Insertion_Run-time 27254445     
+18000      
+1      
+Average_Insertion_Run-time 30800409  18000 324000000 30709731.6 
+2      
+Average_Insertion_Run-time 30525608     
+3      
+Average_Insertion_Run-time 30611896     
+4      
+Average_Insertion_Run-time 30852539     
+5      
+Average_Insertion_Run-time 30758206     
+19000      
+1      
+Average_Insertion_Run-time 33971239  19000 361000000 35326535 
+2      
+Average_Insertion_Run-time 33637549     
+3      
+Average_Insertion_Run-time 34009702     
+4      
+Average_Insertion_Run-time 36070537     
+5      
+Average_Insertion_Run-time 38943648     
+20000      
+1      
+Average_Insertion_Run-time 37521407  20000 400000000 37881148.2 
+2      
+Average_Insertion_Run-time 38629380     
+3      
+Average_Insertion_Run-time 37666988     
+4      
+Average_Insertion_Run-time 37665410     
+5      
+Average_Insertion_Run-time 37922556     
+1000      
+1      
+Best_Insertion_Run-time 1846   1000 1744.6 
+2      
+Best_Insertion_Run-time 1796     
+3      
+Best_Insertion_Run-time 1696     
+4      
+Best_Insertion_Run-time 1709     
+5      
+Best_Insertion_Run-time 1676     
+2000      
+1      
+Best_Insertion_Run-time 3219   2000 3262 
+2      
+Best_Insertion_Run-time 3427     
+3      
+Best_Insertion_Run-time 3259     
+4      
+Best_Insertion_Run-time 3214     
+5      
+Best_Insertion_Run-time 3191     
+3000      
+1      
+Best_Insertion_Run-time 4712   3000 388827.6 
+2      
+Best_Insertion_Run-time 4675     
+3      
+Best_Insertion_Run-time 4683     
+4      
+Best_Insertion_Run-time 4701     
+5      
+Best_Insertion_Run-time 1925367     
+4000      
+1      
+Best_Insertion_Run-time 6334   4000 6306.4 
+2      
+Best_Insertion_Run-time 6371     
+3      
+Best_Insertion_Run-time 6279     
+4      
+Best_Insertion_Run-time 6318     
+5      
+Best_Insertion_Run-time 6230     
+5000      
+1      
+Best_Insertion_Run-time 7756   5000 7753.2 
+2      
+Best_Insertion_Run-time 7764     
+3      
+Best_Insertion_Run-time 7728     
+4      
+Best_Insertion_Run-time 7767     
+5      
+Best_Insertion_Run-time 7751     
+6000      
+1      
+Best_Insertion_Run-time 9188   6000 9203 
+2      
+Best_Insertion_Run-time 9200     
+3      
+Best_Insertion_Run-time 9207     
+4      
+Best_Insertion_Run-time 9205     
+5      
+Best_Insertion_Run-time 9215     
+7000      
+1      
+Best_Insertion_Run-time 10788   7000 10766.6 
+2      
+Best_Insertion_Run-time 10754     
+3      
+Best_Insertion_Run-time 10755     
+4      
+Best_Insertion_Run-time 10734     
+5      
+Best_Insertion_Run-time 10802     
+8000      
+1      
+Best_Insertion_Run-time 12231   8000 12244.6 
+2      
+Best_Insertion_Run-time 12279     
+3      
+Best_Insertion_Run-time 12250     
+4      
+Best_Insertion_Run-time 12233     
+5      
+Best_Insertion_Run-time 12230     
+9000      
+1      
+Best_Insertion_Run-time 13915   9000 13808 
+2      
+Best_Insertion_Run-time 13765     
+3      
+Best_Insertion_Run-time 13790     
+4      
+Best_Insertion_Run-time 13759     
+5      
+Best_Insertion_Run-time 13811     
+10000      
+1      
+Best_Insertion_Run-time 15255   10000 15286.8 
+2      
+Best_Insertion_Run-time 15305     
+3      
+Best_Insertion_Run-time 15287     
+4      
+Best_Insertion_Run-time 15313     
+5      
+Best_Insertion_Run-time 15274     
+11000      
+1      
+Best_Insertion_Run-time 16829   11000 16846 
+2      
+Best_Insertion_Run-time 16868     
+3      
+Best_Insertion_Run-time 16833     
+4      
+Best_Insertion_Run-time 16838     
+5      
+Best_Insertion_Run-time 16862     
+12000      
+1      
+Best_Insertion_Run-time 18350   12000 18353.8 
+2      
+Best_Insertion_Run-time 18382     
+3      
+Best_Insertion_Run-time 18373     
+4      
+Best_Insertion_Run-time 18346     
+5      
+Best_Insertion_Run-time 18318     
+13000      
+1      
+Best_Insertion_Run-time 19882   13000 19824 
+2      
+Best_Insertion_Run-time 19782     
+3      
+Best_Insertion_Run-time 19834     
+4      
+Best_Insertion_Run-time 19806     
+5      
+Best_Insertion_Run-time 19816     
+14000      
+1      
+Best_Insertion_Run-time 21324   14000 21311.2 
+2      
+Best_Insertion_Run-time 21312     
+3      
+Best_Insertion_Run-time 21312     
+4      
+Best_Insertion_Run-time 21302     
+5      
+Best_Insertion_Run-time 21306     
+15000      
+1      
+Best_Insertion_Run-time 22792   15000 22811 
+2      
+Best_Insertion_Run-time 22822     
+3      
+Best_Insertion_Run-time 22827     
+4      
+Best_Insertion_Run-time 22808     
+5      
+Best_Insertion_Run-time 22806     
+16000      
+1      
+Best_Insertion_Run-time 24304   16000 24314.6 
+2      
+Best_Insertion_Run-time 24322     
+3      
+Best_Insertion_Run-time 24309     
+4      
+Best_Insertion_Run-time 24323     
+5      
+Best_Insertion_Run-time 24315     
+17000      
+1      
+Best_Insertion_Run-time 25726   17000 25761.2 
+2      
+Best_Insertion_Run-time 25808     
+3      
+Best_Insertion_Run-time 25796     
+4      
+Best_Insertion_Run-time 25722     
+5      
+Best_Insertion_Run-time 25754     
+18000      
+1      
+Best_Insertion_Run-time 27270   18000 27249.8 
+2      
+Best_Insertion_Run-time 27239     
+3      
+Best_Insertion_Run-time 27266     
+4      
+Best_Insertion_Run-time 27233     
+5      
+Best_Insertion_Run-time 27241     
+19000      
+1      
+Best_Insertion_Run-time 28732   19000 28750.6 
+2      
+Best_Insertion_Run-time 28735     
+3      
+Best_Insertion_Run-time 28752     
+4      
+Best_Insertion_Run-time 28764     
+5      
+Best_Insertion_Run-time 28770     
+20000      
+1      
+Best_Insertion_Run-time 30269   20000 30270.2 
+2      
+Best_Insertion_Run-time 30259     
+3      
+Best_Insertion_Run-time 30264     
+4      
+Best_Insertion_Run-time 30287     
+5      
+Best_Insertion_Run-time 30272     
+1000      
+1      
+Worst_Insertion_Run-time 103042  1000 1000000 103633.2 
+2      
+Worst_Insertion_Run-time 110372     
+3      
+Worst_Insertion_Run-time 100591     
+4      
+Worst_Insertion_Run-time 102732     
+5      
+Worst_Insertion_Run-time 101429     
+2000      
+1      
+Worst_Insertion_Run-time 391164  2000 4000000 398824.4 
+2      
+Worst_Insertion_Run-time 408051     
+3      
+Worst_Insertion_Run-time 389448     
+4      
+Worst_Insertion_Run-time 397660     
+5      
+Worst_Insertion_Run-time 407799     
+3000      
+1      
+Worst_Insertion_Run-time 863783  3000 9000000 905983.8 
+2      
+Worst_Insertion_Run-time 868987     
+3      
+Worst_Insertion_Run-time 927223     
+4      
+Worst_Insertion_Run-time 978488     
+5      
+Worst_Insertion_Run-time 891438     
+4000      
+1      
+Worst_Insertion_Run-time 1539756  4000 16000000 1537635.6 
+2      
+Worst_Insertion_Run-time 1566535     
+3      
+Worst_Insertion_Run-time 1530237     
+4      
+Worst_Insertion_Run-time 1533881     
+5      
+Worst_Insertion_Run-time 1517769     
+5000      
+1      
+Worst_Insertion_Run-time 2403214  5000 25000000 2399531.8 
+2      
+Worst_Insertion_Run-time 2401342     
+3      
+Worst_Insertion_Run-time 2362789     
+4      
+Worst_Insertion_Run-time 2407735     
+5      
+Worst_Insertion_Run-time 2422579     
+6000      
+1      
+Worst_Insertion_Run-time 3440064  6000 36000000 3439981 
+2      
+Worst_Insertion_Run-time 3420607     
+3      
+Worst_Insertion_Run-time 3435264     
+4      
+Worst_Insertion_Run-time 3484405     
+5      
+Worst_Insertion_Run-time 3419565     
+7000      
+1      
+Worst_Insertion_Run-time 4687267  7000 49000000 4678982.4 
+2      
+Worst_Insertion_Run-time 4694046     
+3      
+Worst_Insertion_Run-time 4651487     
+4      
+Worst_Insertion_Run-time 4723205     
+5      
+Worst_Insertion_Run-time 4638907     
+8000      
+1      
+Worst_Insertion_Run-time 6111415  8000 64000000 6088897.8 
+2      
+Worst_Insertion_Run-time 6062180     
+3      
+Worst_Insertion_Run-time 6036238     
+4      
+Worst_Insertion_Run-time 6178228     
+5      
+Worst_Insertion_Run-time 6056428     
+9000      
+1      
+Worst_Insertion_Run-time 7699361  9000 81000000 7711966.6 
+2      
+Worst_Insertion_Run-time 7662304     
+3      
+Worst_Insertion_Run-time 7732173     
+4      
+Worst_Insertion_Run-time 7767011     
+5      
+Worst_Insertion_Run-time 7698984     
+10000      
+1      
+Worst_Insertion_Run-time 9465234  10000 100000000 9501812.6 
+2      
+Worst_Insertion_Run-time 9421669     
+3      
+Worst_Insertion_Run-time 9459689     
+4      
+Worst_Insertion_Run-time 9513670     
+5      
+Worst_Insertion_Run-time 9648801     
+11000      
+1      
+Worst_Insertion_Run-time 11553320  11000 121000000 11486518 
+2      
+Worst_Insertion_Run-time 11496743     
+3      
+Worst_Insertion_Run-time 11493326     
+4      
+Worst_Insertion_Run-time 11413890     
+5      
+Worst_Insertion_Run-time 11475311     
+12000      
+1      
+Worst_Insertion_Run-time 13399114  12000 144000000 13627352.4 
+2      
+Worst_Insertion_Run-time 13627273     
+3      
+Worst_Insertion_Run-time 13795058     
+4      
+Worst_Insertion_Run-time 13771386     
+5      
+Worst_Insertion_Run-time 13543931     
+13000      
+1      
+Worst_Insertion_Run-time 16070535  13000 169000000 16029320.8 
+2      
+Worst_Insertion_Run-time 16041279     
+3      
+Worst_Insertion_Run-time 15993317     
+4      
+Worst_Insertion_Run-time 15988129     
+5      
+Worst_Insertion_Run-time 16053344     
+14000      
+1      
+Worst_Insertion_Run-time 18572330  14000 196000000 18640336.2 
+2      
+Worst_Insertion_Run-time 18620028     
+3      
+Worst_Insertion_Run-time 18521026     
+4      
+Worst_Insertion_Run-time 18746776     
+5      
+Worst_Insertion_Run-time 18741521     
+15000      
+1      
+Worst_Insertion_Run-time 21306074  15000 225000000 21329688.4 
+2      
+Worst_Insertion_Run-time 21188415     
+3      
+Worst_Insertion_Run-time 21244567     
+4      
+Worst_Insertion_Run-time 21459075     
+5      
+Worst_Insertion_Run-time 21450311     
+16000      
+1      
+Worst_Insertion_Run-time 24198589  16000 256000000 24275734.6 
+2      
+Worst_Insertion_Run-time 24402172     
+3      
+Worst_Insertion_Run-time 24166646     
+4      
+Worst_Insertion_Run-time 24387312     
+5      
+Worst_Insertion_Run-time 24223954     
+17000      
+1      
+Worst_Insertion_Run-time 27396056  17000 289000000 27391821.8 
+2      
+Worst_Insertion_Run-time 27150643     
+3      
+Worst_Insertion_Run-time 27532965     
+4      
+Worst_Insertion_Run-time 27504169     
+5      
+Worst_Insertion_Run-time 27375276     
+18000      
+1      
+Worst_Insertion_Run-time 30854277  18000 324000000 30760650.2 
+2      
+Worst_Insertion_Run-time 30807934     
+3      
+Worst_Insertion_Run-time 30566683     
+4      
+Worst_Insertion_Run-time 30709951     
+5      
+Worst_Insertion_Run-time 30864406     
+19000      
+1      
+Worst_Insertion_Run-time 34205285  19000 361000000 34196339.8 
+2      
+Worst_Insertion_Run-time 33933474     
+3      
+Worst_Insertion_Run-time 34227057     
+4      
+Worst_Insertion_Run-time 34407359     
+5      
+Worst_Insertion_Run-time 34208524     
+20000      
+1      
+Worst_Insertion_Run-time 38030431  20000 400000000 37848088 
+2      
+Worst_Insertion_Run-time 37588727     
+3      
+Worst_Insertion_Run-time 38214089     
+4      
+Worst_Insertion_Run-time 37904580     
+5      
+Worst_Insertion_Run-time 37502613     
+1000      
+1      
+Worst_Counting_Run-time 3891356  1000 1000000 2328647.8 
+2      
+Worst_Counting_Run-time 1199623     
+3      
+Worst_Counting_Run-time 2751856     
+4      
+Worst_Counting_Run-time 2816172     
+5      
+Worst_Counting_Run-time 984232     
+2000      
+1      
+Worst_Counting_Run-time 4087424  2000 4000000 4478361 
+2      
+Worst_Counting_Run-time 5785481     
+3      
+Worst_Counting_Run-time 4133122     
+4      
+Worst_Counting_Run-time 4073954     
+5      
+Worst_Counting_Run-time 4311824     
+3000      
+1      
+Worst_Counting_Run-time 8772594  3000 9000000 8753964.2 
+2      
+Worst_Counting_Run-time 8719768     
+3      
+Worst_Counting_Run-time 8804131     
+4      
+Worst_Counting_Run-time 8682182     
+5      
+Worst_Counting_Run-time 8791146     
+4000      
+1      
+Worst_Counting_Run-time 15611166  4000 16000000 15603543 
+2      
+Worst_Counting_Run-time 15784086     
+3      
+Worst_Counting_Run-time 15477052     
+4      
+Worst_Counting_Run-time 15597270     
+5      
+Worst_Counting_Run-time 15548141     
+5000      
+1      
+Worst_Counting_Run-time 24511446  5000 25000000 24530817.4 
+2      
+Worst_Counting_Run-time 24209978     
+3      
+Worst_Counting_Run-time 24313847     
+4      
+Worst_Counting_Run-time 24340499     
+5      
+Worst_Counting_Run-time 25278317     
+6000      
+1      
+Worst_Counting_Run-time 35304070  6000 36000000 35312585 
+2      
+Worst_Counting_Run-time 34958407     
+3      
+Worst_Counting_Run-time 36060976     
+4      
+Worst_Counting_Run-time 35309430     
+5      
+Worst_Counting_Run-time 34930042     
+7000      
+1      
+Worst_Counting_Run-time 47423087  7000 49000000 47510042 
+2      
+Worst_Counting_Run-time 47427701     
+3      
+Worst_Counting_Run-time 47496760     
+4      
+Worst_Counting_Run-time 47650793     
+5      
+Worst_Counting_Run-time 47551869     
+8000      
+1      
+Worst_Counting_Run-time 93362128  8000 64000000 69265257.6 
+2      
+Worst_Counting_Run-time 63207861     
+3      
+Worst_Counting_Run-time 64200323     
+4      
+Worst_Counting_Run-time 63197543     
+5      
+Worst_Counting_Run-time 62358433     
+9000      
+1      
+Worst_Counting_Run-time 78659241  9000 81000000 86807951.6 
+2      
+Worst_Counting_Run-time 80094108     
+3      
+Worst_Counting_Run-time 79929187     
+4      
+Worst_Counting_Run-time 78667446     
+5      
+Worst_Counting_Run-time 116689776     
+10000      
+1      
+Worst_Counting_Run-time 97036023  10000 100000000 97221584.6 
+2      
+Worst_Counting_Run-time 96986220     
+3      
+Worst_Counting_Run-time 98291461     
+4      
+Worst_Counting_Run-time 97238762     
+5      
+Worst_Counting_Run-time 96555457     
+11000      
+1      
+Worst_Counting_Run-time 149221981  11000 121000000 125242604.2 
+2      
+Worst_Counting_Run-time 119800390     
+3      
+Worst_Counting_Run-time 118439928     
+4      
+Worst_Counting_Run-time 118908142     
+5      
+Worst_Counting_Run-time 119842580     
+12000      
+1      
+Worst_Counting_Run-time 172429501  12000 144000000 148434589.4 
+2      
+Worst_Counting_Run-time 140916971     
+3      
+Worst_Counting_Run-time 141522419     
+4      
+Worst_Counting_Run-time 139500730     
+5      
+Worst_Counting_Run-time 147803326     
+13000      
+1      
+Worst_Counting_Run-time 176560133  13000 169000000 177270149.4 
+2      
+Worst_Counting_Run-time 180570715     
+3      
+Worst_Counting_Run-time 176415420     
+4      
+Worst_Counting_Run-time 180147388     
+5      
+Worst_Counting_Run-time 172657091     
+14000      
+1      
+Worst_Counting_Run-time 213043370  14000 196000000 209220148.6 
+2      
+Worst_Counting_Run-time 207978932     
+3      
+Worst_Counting_Run-time 208772422     
+4      
+Worst_Counting_Run-time 209122153     
+5      
+Worst_Counting_Run-time 207183866     
+15000      
+1      
+Worst_Counting_Run-time 242495585  15000 225000000 239274994.6 
+2      
+Worst_Counting_Run-time 240740854     
+3      
+Worst_Counting_Run-time 236650565     
+4      
+Worst_Counting_Run-time 237594354     
+5      
+Worst_Counting_Run-time 238893615     
+16000      
+1      
+Worst_Counting_Run-time 272621248  16000 256000000 272507827.4 
+2      
+Worst_Counting_Run-time 272755011     
+3      
+Worst_Counting_Run-time 273030911     
+4      
+Worst_Counting_Run-time 272375570     
+5      
+Worst_Counting_Run-time 271756397     
+17000      
+1      
+Worst_Counting_Run-time 304243599  17000 289000000 306668619.6 
+2      
+Worst_Counting_Run-time 307124995     
+3      
+Worst_Counting_Run-time 307227102     
+4      
+Worst_Counting_Run-time 309325922     
+5      
+Worst_Counting_Run-time 305421480     
+18000      
+1      
+Worst_Counting_Run-time 342170475  18000 324000000 342014256 
+2      
+Worst_Counting_Run-time 342466518     
+3      
+Worst_Counting_Run-time 342746468     
+4      
+Worst_Counting_Run-time 341117542     
+5      
+Worst_Counting_Run-time 341570277     
+19000      
+1      
+Worst_Counting_Run-time 383408139  19000 361000000 380515096.2 
+2      
+Worst_Counting_Run-time 375982425     
+3      
+Worst_Counting_Run-time 384008204     
+4      
+Worst_Counting_Run-time 378435359     
+5      
+Worst_Counting_Run-time 380741354     
+20000      
+1      
+Worst_Counting_Run-time 415892261  20000 400000000 419685435.2 
+2      
+Worst_Counting_Run-time 419477170     
+3      
+Worst_Counting_Run-time 415546971     
+4      
+Worst_Counting_Run-time 419751462     
+5      
+Worst_Counting_Run-time 427759312     
+1000      
+1      
+Best_Counting_Run-time 1858     
+2   1000 1000000 1629 
+Best_Counting_Run-time 1614     
+3      
+Best_Counting_Run-time 1517     
+4      
+Best_Counting_Run-time 1484     
+5      
+Best_Counting_Run-time 1672     
+2000      
+1      
+Best_Counting_Run-time 2848     
+2   2000 4000000 2870.2 
+Best_Counting_Run-time 2890     
+3      
+Best_Counting_Run-time 2993     
+4      
+Best_Counting_Run-time 2888     
+5      
+Best_Counting_Run-time 2732     
+3000      
+1      
+Best_Counting_Run-time 4033     
+2   3000 9000000 4159.6 
+Best_Counting_Run-time 4173     
+3      
+Best_Counting_Run-time 4250     
+4      
+Best_Counting_Run-time 4177     
+5      
+Best_Counting_Run-time 4165     
+4000      
+1      
+Best_Counting_Run-time 5444     
+2   4000 16000000 5325 
+Best_Counting_Run-time 5392     
+3      
+Best_Counting_Run-time 5245     
+4      
+Best_Counting_Run-time 5289     
+5      
+Best_Counting_Run-time 5255     
+5000      
+1      
+Best_Counting_Run-time 6602     
+2   5000 25000000 8725.2 
+Best_Counting_Run-time 6704     
+3      
+Best_Counting_Run-time 6836     
+4      
+Best_Counting_Run-time 16863     
+5      
+Best_Counting_Run-time 6621     
+6000      
+1      
+Best_Counting_Run-time 8114     
+2   6000 36000000 8034.2 
+Best_Counting_Run-time 7975     
+3      
+Best_Counting_Run-time 7973     
+4      
+Best_Counting_Run-time 7992     
+5      
+Best_Counting_Run-time 8117     
+7000      
+1      
+Best_Counting_Run-time 9483     
+2   7000 49000000 9402.2 
+Best_Counting_Run-time 9454     
+3      
+Best_Counting_Run-time 9350     
+4      
+Best_Counting_Run-time 9322     
+5      
+Best_Counting_Run-time 9402     
+8000      
+1      
+Best_Counting_Run-time 10799     
+2   8000 64000000 12681.8 
+Best_Counting_Run-time 10659     
+3      
+Best_Counting_Run-time 10831     
+4      
+Best_Counting_Run-time 20287     
+5      
+Best_Counting_Run-time 10833     
+9000      
+1      
+Best_Counting_Run-time 12472     
+2   9000 81000000 12345.4 
+Best_Counting_Run-time 12227     
+3      
+Best_Counting_Run-time 12161     
+4      
+Best_Counting_Run-time 12604     
+5      
+Best_Counting_Run-time 12263     
+10000      
+1      
+Best_Counting_Run-time 13985     
+2   10000 100000000 13837.2 
+Best_Counting_Run-time 13712     
+3      
+Best_Counting_Run-time 13790     
+4      
+Best_Counting_Run-time 14098     
+5      
+Best_Counting_Run-time 13601     
+11000      
+1      
+Best_Counting_Run-time 15486     
+2   11000 121000000 15579.6 
+Best_Counting_Run-time 15589     
+3      
+Best_Counting_Run-time 15546     
+4      
+Best_Counting_Run-time 15695     
+5      
+Best_Counting_Run-time 15582     
+12000      
+1      
+Best_Counting_Run-time 17769     
+2   12000 144000000 17709 
+Best_Counting_Run-time 17651     
+3      
+Best_Counting_Run-time 17691     
+4      
+Best_Counting_Run-time 17772     
+5      
+Best_Counting_Run-time 17662     
+13000      
+1      
+Best_Counting_Run-time 20306     
+2   13000 169000000 20064.4 
+Best_Counting_Run-time 20071     
+3      
+Best_Counting_Run-time 20048     
+4      
+Best_Counting_Run-time 19974     
+5      
+Best_Counting_Run-time 19923     
+14000      
+1      
+Best_Counting_Run-time 22303     
+2   14000 196000000 22297.6 
+Best_Counting_Run-time 22390     
+3      
+Best_Counting_Run-time 22243     
+4      
+Best_Counting_Run-time 22274     
+5      
+Best_Counting_Run-time 22278     
+15000      
+1      
+Best_Counting_Run-time 24712     
+2   15000 225000000 24667.2 
+Best_Counting_Run-time 24633     
+3      
+Best_Counting_Run-time 24745     
+4      
+Best_Counting_Run-time 24617     
+5      
+Best_Counting_Run-time 24629     
+16000      
+1      
+Best_Counting_Run-time 26923     
+2   16000 256000000 27083 
+Best_Counting_Run-time 27175     
+3      
+Best_Counting_Run-time 27073     
+4      
+Best_Counting_Run-time 27113     
+5      
+Best_Counting_Run-time 27131     
+17000      
+1      
+Best_Counting_Run-time 29574     
+2   17000 289000000 29519.4 
+Best_Counting_Run-time 29497     
+3      
+Best_Counting_Run-time 29549     
+4      
+Best_Counting_Run-time 29517     
+5      
+Best_Counting_Run-time 29460     
+18000      
+1      
+Best_Counting_Run-time 31691     
+2   18000 324000000 32926.2 
+Best_Counting_Run-time 32148     
+3      
+Best_Counting_Run-time 31701     
+4      
+Best_Counting_Run-time 37378     
+5      
+Best_Counting_Run-time 31713     
+19000      
+1      
+Best_Counting_Run-time 34456     
+2   19000 361000000 34510.2 
+Best_Counting_Run-time 34513     
+3      
+Best_Counting_Run-time 34473     
+4      
+Best_Counting_Run-time 34548     
+5      
+Best_Counting_Run-time 34561     
+20000      
+1      
+Best_Counting_Run-time 37020     
+2   20000 400000000 36994.6 
+Best_Counting_Run-time 36721     
+3      
+Best_Counting_Run-time 37061     
+4      
+Best_Counting_Run-time 37144     
+5      
+Best_Counting_Run-time 37027     
